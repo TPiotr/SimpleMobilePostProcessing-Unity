@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 7c934ec436c93a148beaf4229828c39c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - VignetteShader: {fileID: 4800000, guid: 0e9366be9f88ea34c9fc81df03b74ee5, type: 3}
+  - BlurShader: {fileID: 4800000, guid: 63f6c50725ac97947844a703eb8e6b2c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
