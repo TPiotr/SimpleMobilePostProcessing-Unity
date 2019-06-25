@@ -4,8 +4,7 @@ Idea of this project is that I was bored of standard post processing stack for u
 - **Vignette** - you can control effect intensity and center of vignette
 
 # Presentation
-![alt text](https://github.com/TPiotr/LowPolyTerrain-Unity/blob/master/MyTerrainTool/Assets/Gifs/terrain_gif2.gif)
-<video src="video.mp4" width="320" height="200" controls preload></video>
+![alt text](https://github.com/TPiotr/SimpleMobilePostProcessing-Unity/blob/master/presentation/showcase1_gif.gif)
 
 # How to use
 Download CustomPostProcessing folder put it in your project and drag PostProcessor into your Camera thats all.
