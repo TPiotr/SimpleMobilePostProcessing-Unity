@@ -5,6 +5,7 @@ Idea of this project is that I was bored of standard post processing stack for u
 
 # Presentation
 ![alt text](https://github.com/TPiotr/LowPolyTerrain-Unity/blob/master/MyTerrainTool/Assets/Gifs/terrain_gif2.gif)
+<video src="video.mp4" width="320" height="200" controls preload></video>
 
 # How to use
 Download CustomPostProcessing folder put it in your project and drag PostProcessor into your Camera thats all.
